@@ -1,2 +1,1 @@
-os codigo de dw e pa
-att
+os codigo de dw
